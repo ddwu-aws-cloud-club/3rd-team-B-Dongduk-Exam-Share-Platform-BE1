@@ -15,5 +15,5 @@
 
 ## System Architecture
 
-<img width="953" height="728" alt="image" src="https://github.com/user-attachments/assets/32c0b96b-9c79-4f12-800d-65143b863d9a" />
+<img width="626" height="620" alt="스크린샷 2025-12-31 160549" src="https://github.com/user-attachments/assets/46d5321c-5e24-4f6f-a0d2-d4e354a879b3" />
 
