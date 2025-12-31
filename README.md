@@ -7,12 +7,12 @@
 
 ## ERD (Entity Relationship Diagram)
 
-<img width="940" height="446" alt="ERD" src="https://github.com/user-attachments/assets/3b686541-7f77-47bc-943e-60f9f60c62fd" />
+<img width="940" height="446" alt="image" src="https://github.com/user-attachments/assets/f936d6c4-1700-4e72-8118-25a25a6cd9fd" />
+
 
 
 ---
 
 ## System Architecture
 
-<img width="626" height="620" alt="image" src="https://github.com/user-attachments/assets/ba81d59b-c038-486a-96fb-e6a649b5151e" />
-
+<img width="953" height="728" alt="image" src="https://github.com/user-attachments/assets/d4583969-9269-4fca-af6a-35026134f883" />
