@@ -1,0 +1,13 @@
+package com.somshare.somshare;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SomshareApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SomshareApplication.class, args);
+	}
+
+}
