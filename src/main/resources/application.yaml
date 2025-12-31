@@ -2,4 +2,4 @@ spring:
   application:
     name: somshare
   profiles:
-    active: dev
+    active: simple
