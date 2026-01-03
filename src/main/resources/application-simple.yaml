@@ -13,3 +13,6 @@ spring:
     hibernate:
       ddl-auto: create-drop
     show-sql: true
+
+app:
+  upload-dir: ./uploads
