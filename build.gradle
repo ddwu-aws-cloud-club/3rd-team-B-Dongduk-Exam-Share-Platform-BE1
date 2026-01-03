@@ -52,6 +52,9 @@ dependencies {
 
     // AWS Cognito JWT 검증용
     implementation 'com.nimbusds:nimbus-jose-jwt:9.37.3'
+
+    // 메일용
+    implementation 'org.springframework.boot:spring-boot-starter-mail'
 }
 
 tasks.named('test') {
