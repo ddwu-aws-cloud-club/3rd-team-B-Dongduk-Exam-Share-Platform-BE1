@@ -9,10 +9,9 @@
 
 <img width="940" height="446" alt="image" src="https://github.com/user-attachments/assets/f936d6c4-1700-4e72-8118-25a25a6cd9fd" />
 
-
-
 ---
 
 ## System Architecture
 
-<img width="626" height="620" alt="스크린샷 2025-12-31 160549" src="https://github.com/user-attachments/assets/cd2401d1-7dd3-48bb-9697-2d0ba36b8aa9" />
+<img width="626" height="620" alt="스크린샷 2025-12-31 160549" src="https://github.com/user-attachments/assets/46d5321c-5e24-4f6f-a0d2-d4e354a879b3" />
+
