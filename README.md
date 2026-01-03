@@ -7,9 +7,7 @@
 
 ## ERD (Entity Relationship Diagram)
 
-<img width="940" height="446" alt="image" src="https://github.com/user-attachments/assets/d56c2d98-84cc-4fbb-a1b7-3fdebdc4ca4e" />
-
-
+<img width="940" height="446" alt="image" src="https://github.com/user-attachments/assets/f936d6c4-1700-4e72-8118-25a25a6cd9fd" />
 
 ---
 
